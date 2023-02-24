@@ -1,4 +1,4 @@
 # vegeket
 
 djangoの学習でECサイトの作成をした。
-＃１
+#１
