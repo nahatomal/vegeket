@@ -1,5 +1,2 @@
-# vegeket
-
-djangoの学習でECサイトの作成中
-### 目的
-様々な知識を身につけるために、ECサイトに必要な機能を備えたサイトを作成できるようになるため。
+# pullrequest-sample-edit
+## add content
