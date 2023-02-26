@@ -115,7 +115,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'ja' #   変更
 
-TIME_ZONE = 'Asia.Tokyo' # 変更
+TIME_ZONE = 'Asia/Tokyo' # 変更
 
 USE_I18N = True
 
