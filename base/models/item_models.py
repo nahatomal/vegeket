@@ -23,7 +23,7 @@ class Tag(models.Model):
         return self.name
     
 class Item(models.Model):
-    id = models.CharField(default=create_id, primary_key=True, max_length=22, #ランダムな２２文字の文字列がIDになる
+    id = models.CharField(default=create_id, primary_key=True, max_length=20, #ランダムな２0文字の文字列がIDになる
     editable=False)
     name = models.CharField(default='', max_length=50)
     price = models.PositiveIntegerField(default=0)
